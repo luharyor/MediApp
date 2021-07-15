@@ -3,8 +3,6 @@
 One app to get infomation about multiple hospitals in Mumbai.
 Easily get info about hospitals like address, phone number, available services, location on map, doctors, etc
 
-[Visit Website](https://mediapp.netlify.app) 
-
 [Download Apk](https://mediapp.netlify.app/assets/MediApp.apk)
 
 
